@@ -2,6 +2,10 @@
 
 [中文文档](./README.zh-CN.md)
 
+## Demo
+
+![Demo Screenshot](./1747191475976.jpg)
+
 ## Overview
 
 This project demonstrates how to interact with Windows Security Center (WSC) by registering a custom security product. The solution consists of three main components that work together to register a simulated security product with WSC, potentially causing Microsoft Defender to deactivate.
